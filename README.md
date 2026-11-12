@@ -6,9 +6,9 @@
 ---
 
 ## About me
-- 🔭 Currently honing my **Front-End** skills and building creative, user-centric web applications.
-- 🎨 Passionate about **UI/UX design**, writing, photography, and crafting interactive side projects (like my own desktop music player or a virtual Tamagotchi!).
-- ⚡ **Fun fact:** My background started in philosophy, which taught me analytical rigor, structured thinking, and a love for clean documentation.
+- Currently honing my **Front-End** skills and building creative, user-centric web applications.
+- Passionate about **UI/UX design**, writing, photography, and crafting interactive side projects (like my own desktop music player or a virtual Tamagotchi!).
+- **Fun fact:** My background started in philosophy, which taught me analytical rigor, structured thinking, and a love for clean documentation.
 
 ---
 
