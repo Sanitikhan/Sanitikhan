@@ -1,5 +1,7 @@
 <img src="banner.png" alt="banner welcome">
-<img src="banner-me.png" alt="banner me">
+
+### Front-End Developer & Creative Profile
+*Turning visual ideas into smooth, interactive web experiences.*
 
 ---
 
